@@ -9,5 +9,5 @@ Key Tasks:
 - Create a housing for the PCB
 
 Learning Outcomes: 
-- Gained insight into designing PCBs using Altium Software, as well as experience with SolidWorks when building the enclosure.
+- Gained insight into designing PCBs using Altium Software, as well as CAD experience with SolidWorks when building the enclosure.
 - First time soldering
