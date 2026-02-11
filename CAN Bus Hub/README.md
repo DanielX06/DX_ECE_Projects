@@ -9,5 +9,4 @@ Key Tasks:
 - Create a housing for the PCB
 
 Learning Outcomes: 
-- Gained insight into implementing proper bus topology, and termination to ensure reliable communication across the subsystems
-- Understanding transient voltage suppression (TVS) diodes to enhance circuit protection and safeguard components from voltage spikes
+- Gained insight into designing PCBs using Altium Software, as well as experience with SolidWorks when building the enclosure.
