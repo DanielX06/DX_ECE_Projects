@@ -9,5 +9,6 @@ Some datasheet links:
 
   Proximity Sensor:        https://datasheet.octopart.com/VCNL4040M3OE-Vishay-datasheet-175914715.pdf?src-supplier=IHS
 
-  ESP32:                   https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32_devkitC_v4_pinlayout.png
+  ESP32:                   https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html
+                           https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32_devkitC_v4_pinlayout.png
                            https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.pdf
