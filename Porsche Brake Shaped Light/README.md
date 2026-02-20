@@ -38,5 +38,4 @@ Some datasheet links:
 | Step Down Converter IC | [AP63203WU-7 datasheet](https://datasheet.octopart.com/AP63203WU-7-Diodes-Inc.-datasheet-130008827.pdf?src=supplier=IHS) |
 | Proximity Sensor | [VCNL4040 datasheet](https://datasheet.octopart.com/VCNL4040M3OE-Vishay-datasheet-175914715.pdf?src=supplier=IHS) |
 | ESP32 DevKitC docs | [Espressif docs](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html) |
-| ESP32 DevKitC pin layout | [Pin layout image](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32_devkitc_v4_pinlayout.png) |
 | ESP32 DevKitC dimensions | [Dimensions PDF](https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.pdf) |
