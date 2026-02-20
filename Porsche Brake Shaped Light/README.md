@@ -9,7 +9,7 @@ The main goal is to get hands on practice with the full workflow. PCB design, CA
 System Overview:
 - Power comes in at 12 V and gets stepped down to 3.3 V on the PCB for the ESP32 and sensor
 - The ESP32 handles the Wi-Fi control side and the main logic
-- A proximity sensor is used for gesture style input like turning it on or switching modes
+- A proximity sensor is used for gesture style input like turning it
 - The COBB LED is driven by a mosfet to the PCB so I can do different lighting behaviors (brightness, etc.)
 - The rotor and caliper are custom modeled so everything mounts cleanly and the wiring stays hidden
 
