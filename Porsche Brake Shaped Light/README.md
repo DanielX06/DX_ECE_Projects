@@ -33,10 +33,10 @@ Learning Outcomes (So far):
 Some datasheet links:
 
 
-  Step Down Converter IC:  https://datasheet.octopart.com/AP63203WU-7-Diodes-Inc.-datasheet-130008827.pdf?src-supplier=IHS
+  Step Down Converter IC: \\(https://datasheet.octopart.com/AP63203WU-7-Diodes-Inc.-datasheet-130008827.pdf?src-supplier=IHS)
 
-  Proximity Sensor:        https://datasheet.octopart.com/VCNL4040M3OE-Vishay-datasheet-175914715.pdf?src-supplier=IHS
+  Proximity Sensor:\\\\\\\\(https://datasheet.octopart.com/VCNL4040M3OE-Vishay-datasheet-175914715.pdf?src-supplier=IHS)
 
-  ESP32:                   https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html
-                           https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32_devkitC_v4_pinlayout.png
-                           https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.pdf
+  ESP32:\\\\\\\\\\\\\\\\\\\(https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html)
+  \\\\\\\\\\\\\\\\\\\\\\\\(https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32_devkitC_v4_pinlayout.png)
+  \\\\\\\\\\\\\\\\\\\\\\\\\(https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.pdf)
