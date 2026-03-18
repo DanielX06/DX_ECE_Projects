@@ -42,7 +42,7 @@ Mechanical components were designed to house all electronics cleanly while maint
 
 
 ## Comments: 
-- Wow! I did not expect the smd componenet to be so small, so I got some smd practice kits online to practice before soldering the final product
+- Wow! I did not expect the smd components to be so small. I got some smd practice kits online to practice before soldering the final product
 
 
 
