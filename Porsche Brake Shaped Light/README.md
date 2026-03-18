@@ -9,16 +9,16 @@ The main goal is to get hands on practice with the full workflow. PCB design, CA
 ## System Overview:
 The system is composed of four tightly integrated subsystems:
 
-**Power System**
+**Power System** \n
 12 V input stepped down to 3.3 V using an on-board buck converter to supply the ESP32 and sensor
 
-**Control System**
+**Control System** \n
 ESP32 handles Wi-Fi communication, device logic, and LED control
 
-**Sensing System**
+**Sensing System** \n 
 Proximity sensor enables gesture-based interaction such as turning the light on or off
 
-**Lighting System**
+**Lighting System** \n
 COB LED driven through a MOSFET for brightness control and dynamic lighting behavior
 
 Mechanical components were designed to house all electronics cleanly while maintaining a realistic brake rotor aesthetic.
