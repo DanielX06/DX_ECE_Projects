@@ -1,5 +1,5 @@
 # Porsche Brake Shaped Light
-02/2026 - Current
+02/2026 - 04/2026
 
 A brake rotor and caliper inspired LED wall light that combines mechanical design, embedded systems, and PCB development. This project was heavily inspired by the “Glow Brake X” by 3D Druck Lagune on MakerWorld (https://makerworld.com/en/models/1782379-glow-brake-x#profileId-2048105). I extended the concept by designing the electronics from scratch so the light can be controlled over Wi-Fi (IP based control) and activated locally using a hand wave via a proximity sensor. The result is a complete end to end build that includes mechanical CAD, a custom PCB, soldering, firmware, and system bring up.
 
@@ -32,21 +32,12 @@ Mechanical components were designed to house all electronics cleanly while maint
 
 
 
-## Lessons Learned (So far):
+## Lessons Learned:
 - I got way more comfortable going from schematic to PCB layout, especially around power delivery, grounding, and designing something that’s realistic to solder
 - I learned a lot about integrating sensors and power electronics with an ESP32 without making the system noisy or unstable
 - Learned how capacitor selection (ESR, value) affects stability and ripple
 - Created some more advanced designs such as the brake caliper in SolidWorks CAD
-- I am getting more comfortable soldering 0805, 0603, and 0402 smd components
-
-
-
-## Comments: 
-- Wow! I did not expect the smd components to be so small. I got some smd practice kits online to practice before soldering the final product
-
-
-
-
+- I have gotten more comfortable soldering 0805, 0603, and 0402 smd components
 
 
 Some datasheet links:
