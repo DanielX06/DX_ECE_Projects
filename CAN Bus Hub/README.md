@@ -1,6 +1,6 @@
 # U of A FSAE CAN Bus Hub
 
-09/2025 - 12/2025
+10/2025 - 12/2025
 
 Goal: This project was to built for my FSAE team with two main goals in mind: reduces costs and gain engineering experience. Off the shelf hubs typically cost over $100 each. By designing and fabricating one myself, I can deliver a lower-cost solution tailored to our team's needs while also learning the design process.
 
