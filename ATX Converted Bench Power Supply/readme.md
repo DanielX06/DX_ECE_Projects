@@ -1,6 +1,6 @@
 # ATX bench power supply
 
-![](Front Panel.JPEG)
+![Front panel](Front%20Panel.JPEG)
 
 A Corsair RM650x that used to run a gaming PC and now runs whatever is on my desk. Same silent Corsair fan, same rock-solid rails, except the 24-pin has been replaced with a row of banana jacks and the whole thing lives in a 3D printed enclosure made in SolidWorks.
 
