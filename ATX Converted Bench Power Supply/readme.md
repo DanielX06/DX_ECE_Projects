@@ -1,5 +1,6 @@
 # ATX bench power supply
 
+![ProjectScreenshot](Front Panel.JPEG)
 A Corsair RM650x that used to run a gaming PC and now runs whatever is on my desk. Same silent Corsair fan, same rock-solid rails, except the 24-pin has been replaced with a row of banana jacks and the whole thing lives in a 3D printed enclosure made in SolidWorks.
 
 Four outputs come out the front. Three of them are the ATX rails themselves, 3.3 V, 5 V and 12 V, tapped straight off the harness so they carry the supply's original regulation and protection. The fourth is the one I actually use most, an AliExpress buck-boost module fed from the 12 V rail and dialed anywhere between 0 and 36 V with a knob on the panel. Its display sits flush next to the knob, so setting a rail takes one hand and no guessing at a multimeter.
